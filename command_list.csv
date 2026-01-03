@@ -1,0 +1,70 @@
+    1  git config --global user.name Serhii Lukashov
+    2   git config --global user.email sermn000@gmail.com
+    3  git clone https://github.com/sermn000-ops/HW_10.git 
+    4  touch text_ignore.txt 
+    5  ls
+    6  nano HW_10/
+    7  git status
+    8  git status text_ignore.tx
+    9  cd HW_10/
+   10  git status 
+   11  cd /C
+   12  LS
+   13  cd GiT/
+   14  Ls
+   15  cd HW_10/
+   16  ls
+   17  cd ..
+   18  cd HW_10/
+   19  ls
+   20  non .gitignor.txt
+   21  nan .gitignor.txt
+   22  nano .gitignor.txt
+   23  git status .gitignor.txt 
+   24  git add .gitignor.txt 
+   25  git status .gitignor.txt
+   26  git commit .gitignor.txt 
+   27  cd /c
+   28  cd git
+   29  ls
+   30  cd HW_10/
+   31  ls
+   32  git status .gitignor.txt
+   33  git commit 
+   34  git commit -m "New file"
+   35  rm -f .git/index.lock
+   36  git status .gitignor.txt
+   37  git commit -m "New file"
+   38  git status .gitignor.txt
+   39  git log 
+   40  git branch
+   41  clear
+   42  touch main_test.txt
+   43  git add
+   44  git add main_test.txt
+   45* git commit 
+   46  ls
+   47  clear
+   48  ls
+   49  git commit -m "m_test"
+   50  chekouta -b develop 
+   51  git checkout -b develop 
+   52  git checkout develop 
+   53  touch develop_test.txt
+   54  ls
+   55  git add 
+   56  ls
+   57  git add develop_test.txt 
+   58  git commit -m "d_test"
+   59  nano develop_test.txt 
+   60  git status
+   61  git add 
+   62  git add develop_test.txt 
+   63  git status
+   64  git commit -m "d_tes change"
+   65  git checkout main 
+   66  git merge develop 
+   67  git branch
+   68  git status
+   69  git log main
+   70  history > command_list.csv 
