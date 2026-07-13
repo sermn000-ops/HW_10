@@ -27,7 +27,7 @@
    27  cd /c
    28  cd git
    29  ls
-   30  cd HW_10/
+   30  cd HW_10/ 
    31  ls
    32  git status .gitignor.txt
    33  git commit 
